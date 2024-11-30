@@ -1,6 +1,10 @@
-# 此仓库为秋风广告规则为AdGuard Home for Magisk添加秋风广告规则之仓库，如果您需要订阅 秋风广告规则(AWAvenue Ads Rule)请前往我们的[官方仓库](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)进行订阅！
+# 此仓库为[秋风广告规则](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)为 AdGuard Home for Magisk
 
-# AdGuardHome_magisk
+# 添加规则的仓库页面，
+
+# 若您需要订阅秋风广告规则，则请前往 我们的[官方仓库](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)
+
+## AdGuardHome_magisk
 这是一个让AdGuardHome运行在安卓设备上的去广告magisk模块。
 
 [下载页面](https://github.com/410154425/AdGuardHome_magisk/releases)点击Assets选择压缩包AdHome_Magisk_***.zip，使用Magisk从本地安装。
